@@ -29,6 +29,10 @@ url: "https://cpfdata.github.io/" # the base hostname & protocol for your site, 
 
 repository: "cpfdata/cpfdata.github.io"
 
+atom_feed:
+  hide: true
+
+search: true
 
 footer:
   links:
@@ -43,7 +47,7 @@ footer:
       url: "https://instagram.com/mmistakes"
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
