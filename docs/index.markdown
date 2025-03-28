@@ -19,24 +19,24 @@ The project aims to support the community of sociologists, demographers and othe
 The multilevel panel data covering long periods and several general population surveys allow analysing individual trajectories, time trends, contextual effects and country differences. '
 
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+  - image_path: /assets/images/data.jpg
+    alt: "data"
+    title: "Global Data"
+    excerpt: "CPF combines data from seven countries, includes 2.7 million observations from almost 360 thousand respondents."
+    url: "/data/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+  - image_path: /assets/images/platform.jpeg
+    alt: "platform"
+    title: "Open Science Platform"
+    excerpt: "We encourage open access and community-based development - anyone can contribute to the project."
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
+  - image_path: /assets/images/working.png
+    alt: "working with cpf"
+    title: "Working with CPF"
+    excerpt: "The CPF provides free of charge and full access to the programming code. Try it yourself!"
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn more" 
@@ -45,3 +45,5 @@ feature_row:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+
+
