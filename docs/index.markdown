@@ -2,8 +2,9 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: CPF - the easy way to harmonize panel data.
-layout: splash
+layout: home
 classes: wide
+author_profile: false
 header:
   overlay_color: "#5e616c"
   overlay_filter: 0.8
@@ -31,14 +32,14 @@ feature_row:
     alt: "platform"
     title: "Open Science Platform"
     excerpt: "We encourage open access and community-based development - anyone can contribute to the project."
-    url: "/docs/layouts/"
+    url: "/platform/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/working.png
     alt: "working with cpf"
     title: "Working with CPF"
     excerpt: "The CPF provides free of charge and full access to the programming code. Try it yourself!"
-    url: "/docs/license/"
+    url: "/working-with-cpf/"
     btn_class: "btn--primary"
     btn_label: "Learn more" 
 ---
