@@ -1,0 +1,26 @@
+---
+title:  "CPF ver. 1.52 – kids and older people in HH added"
+date:   2023-10-13 13:04:04 +0100
+categories: update
+---
+
+I added several useful varialbes to the main code at Github. This latest version can be downladed from Github directly or from this CPF website (Downloads):
+
+- kidsn_hh_02 “Number of Children in HH aged 0-2”
+- kidsn_hh_34 “Number of Children in HH aged 3-4”
+- kidsn_hh_04 “Number of Children in HH aged 0-4”
+- kidsn_hh_59 “Number of Children in HH aged 5-9”
+- kids_hh_04 “Any children in HH aged 0-4?”
+- kidsown_04 “Any own children aged 0-4?”
+- youngest_hh “Age of the youngest HH member”
+- oldern_hh70 “Number of people in HH aged 70+”
+- oldern_hh80 “Number of people in HH aged 80+”
+
+For example, kids_hh_04:
+
+
+Not all of the new variables could have been harmonized across all countries.
+
+Enjoy,
+
+Konrad Turek

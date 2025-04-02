@@ -17,9 +17,9 @@ excerpt: >
   <small><a href="/platform/">Latest release: v1.52</a></small>
 intro: 
   - excerpt: 'CPF provides an open-source code to construct a comparative dataset based on the original data from the household panel surveys.<br/>
-The project aims to support the community of sociologists, demographers and other researchers interested in comparative life course studies.<br/>
 The multilevel panel data covering long periods and several general population surveys allow analysing individual trajectories, time trends, contextual effects and country differences. '
 
+entries_layout: grid
 feature_row:
   - image_path: /assets/images/data.jpg
     alt: "data"
@@ -42,10 +42,56 @@ feature_row:
     url: "/working-with-cpf/"
     btn_class: "btn--primary"
     btn_label: "Learn more" 
+
+gallery:
+  - url: https://nidi.nl/en/
+    image_path: /assets/images/nidi.svg
+    alt: "nidi"
+    title: "Netherlands Interdisciplinary Demographic Institute"
+  - url: https://www.uni-koeln.de/en/
+    image_path: /assets/images/cologne.png
+    alt: "cologne"
+    title: "University of Cologne"
+  - url: https://www.tilburguniversity.edu/
+    image_path: https://cdn.brandfetch.io/id-OjnWo8f/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B
+    alt: "Tilburg University"
+    title: "Tilburg University"
+  - url: https://www.lissdata.nl/
+    image_path: /assets/images/liss.png
+    alt: "LISS Panel"
+    title: "LISS Panel"
+  - url: https://www.lissdata.nl/
+    image_path: /assets/images/norface.png
+    alt: "Norface Network"
+    title: "Norface Network"
 ---
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
 
+<div markdown="1" style="display: inline-block">
 
+<h3 class="archive__subtitle">Recent Updates</h3>
+
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+{%- for post in posts -%}
+  {% include archive-single.html type=entries_layout %}
+{%- endfor -%}
+{% include paginator.html %}
+
+</div>
+</div>
+
+### Supported by
+{: .text-center}
+<div style="width: 70%; margin-left: auto; margin-right: auto;" markdown="1">
+
+</div>

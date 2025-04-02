@@ -37,7 +37,7 @@ lunr:
   search_within_pages: true
 
 logo: "/assets/images/logo_black_cpf.png"
-minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 include: ["_pages"]
 
 footer:
