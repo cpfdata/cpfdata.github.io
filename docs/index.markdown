@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: CPF - the easy way to harmonize panel data.
-layout: home
+layout: splash
 classes: wide
 author_profile: false
 header:
