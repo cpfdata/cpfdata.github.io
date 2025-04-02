@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: CPF - the easy way to harmonize panel data.
 layout: splash
+classes: wide
 header:
   overlay_color: "#5e616c"
   overlay_filter: 0.8
@@ -12,7 +13,7 @@ header:
       url: "/download/"
 excerpt: >
   Comparative Panel File (CPF) is an open science project to harmonise the world’s major and longest-running household panel surveys from seven countries.<br/>
-  <small><a href="https://www.cpfdata.com/platform/">Latest release: v1.52</a></small>
+  <small><a href="/platform/">Latest release: v1.52</a></small>
 intro: 
   - excerpt: 'CPF provides an open-source code to construct a comparative dataset based on the original data from the household panel surveys.<br/>
 The project aims to support the community of sociologists, demographers and other researchers interested in comparative life course studies.<br/>

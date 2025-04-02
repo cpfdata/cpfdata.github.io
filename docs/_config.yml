@@ -33,6 +33,8 @@ atom_feed:
   hide: true
 
 search: true
+lunr:
+  search_within_pages: true
 
 logo: "/assets/images/logo_black_cpf.png"
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
