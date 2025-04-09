@@ -94,4 +94,5 @@ gallery:
 {: .text-center}
 <div style="width: 70%; margin-left: auto; margin-right: auto;" markdown="1">
 
+{% include gallery %}
 </div>
