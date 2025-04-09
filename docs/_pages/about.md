@@ -65,7 +65,7 @@ Professor of demography and sociology at the Netherlands Interdisciplinary Demog
 ### [Isabel Voets](http://www.linkedin.com/in/isabelvoets)
 {: style="margin-top: 0.6em"}
 
-Research Assistant for CPF at NIDI-KNAW.  MSc Double Degree Sociology and Population Studies (Tilburg University / Universitat Pompeu Fabra)
+Research Assistant for CPF in year 2020-2021 at NIDI-KNAW.  MSc Double Degree Sociology and Population Studies (Tilburg University / Universitat Pompeu Fabra)
 {: .text-left  style="font-size:0.75em"}
 <br/>
 
