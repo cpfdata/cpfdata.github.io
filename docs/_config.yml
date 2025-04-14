@@ -36,7 +36,7 @@ search: true
 lunr:
   search_within_pages: true
 
-logo: "/assets/images/logo_black_cpf.png"
+logo: "/assets/images/CPF logo 15_no sub -or,wh3.png"
 minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 include: ["_pages"]
 
