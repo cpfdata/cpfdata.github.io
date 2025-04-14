@@ -6,9 +6,9 @@ layout: splash
 classes: wide
 author_profile: false
 header:
-  overlay_color: "#5e616c"
-  overlay_filter: 0.2
-  overlay_image: /assets/images/head_bckgr_1.png
+  overlay_color: "#0092ca"
+  overlay_filter: 0.1
+  overlay_image: /assets/images/head_bckgr_2.png
   actions:
     - label: "<i class='fas fa-download'></i> Download now"
       url: "/download/"
