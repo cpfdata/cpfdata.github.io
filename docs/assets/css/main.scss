@@ -18,24 +18,32 @@ $global-font-family : $sans-serif;
 }
 
 .masthead {
-    background-color: #0092ca;
+    background-color: #0092ca !important;
 }
-.greedy-nav{
+
+.greedy-nav {
     background: #0092ca !important;
 }
 
 /* Make menu text white */
-.masthead {
+.greedy-nav a,
+.greedy-nav .site-title,
+.greedy-nav .site-subtitle {
     color: white !important;
 }
 
-// .greedy-nav .visible-links a:before {
-//     background: white !important;
-// }
+.greedy-nav .visible-links a:before {
+    background: white !important;
+}
 
-// .greedy-nav .hidden-links a {
-//     color: white !important;
-// }
+.greedy-nav .hidden-links a {
+    color: white !important;
+}
+
+/* Ensure dropdown menu is also styled */
+.greedy-nav .hidden-links {
+    background: #0092ca !important;
+}
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
