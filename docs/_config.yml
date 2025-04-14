@@ -99,12 +99,7 @@ defaults:
       read_time: false
       related: false
 
-      # Site title color customization
-      masthead_text_color: "#FFFFFF"  # White color for site title
-      
-      sass:
-        custom:
-          - _sass/custom.scss
+
 
 
 
