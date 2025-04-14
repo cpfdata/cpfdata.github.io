@@ -8,7 +8,7 @@ author_profile: false
 header:
   overlay_color: "#5e616c"
   overlay_filter: 0.8
-  overlay_image: /assets/images/map.webp
+  overlay_image: /assets/images/head_bckgr_1
   actions:
     - label: "<i class='fas fa-download'></i> Download now"
       url: "/download/"
