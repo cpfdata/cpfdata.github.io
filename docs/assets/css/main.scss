@@ -25,25 +25,25 @@ $global-font-family : $sans-serif;
     background: #0092ca !important;
 }
 
-/* Make menu text white */
-.greedy-nav a,
-.greedy-nav .site-title,
-.greedy-nav .site-subtitle {
-    color: white !important;
-}
+// /* Make menu text white */
+// .greedy-nav a,
+// .greedy-nav .site-title,
+// .greedy-nav .site-subtitle {
+//     color: white !important;
+// }
 
-.greedy-nav .visible-links a:before {
-    background: white !important;
-}
+// .greedy-nav .visible-links a:before {
+//     background: white !important;
+// }
 
-.greedy-nav .hidden-links a {
-    color: white !important;
-}
+// .greedy-nav .hidden-links a {
+//     color: white !important;
+// }
 
-/* Ensure dropdown menu is also styled */
-.greedy-nav .hidden-links {
-    background: #0092ca !important;
-}
+// /* Ensure dropdown menu is also styled */
+// .greedy-nav .hidden-links {
+//     background: #0092ca !important;
+// }
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
