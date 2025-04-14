@@ -7,7 +7,7 @@ classes: wide
 author_profile: false
 header:
   overlay_color: "#5e616c"
-  overlay_filter: 0.8
+  overlay_filter: 0.2
   overlay_image: /assets/images/head_bckgr_1
   actions:
     - label: "<i class='fas fa-download'></i> Download now"
