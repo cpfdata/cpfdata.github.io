@@ -70,6 +70,30 @@ gallery:
 
 {% include feature_row %}
 
+<!-- modify this form HTML and place wherever you want your form -->
+
+<div markdown="1">
+### Subscribe to our Mailing List!
+{: .text-center}
+
+<form
+  action="https://formspree.io/f/mjkyjgkd"
+  method="POST"
+>
+  <label>
+    Your name:
+    <input name="name">
+  </label>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+
+  <!-- your other form fields go here -->
+  <button type="submit" class="btn btn--primary">Send</button>
+</form>
+</div>
+
 <div markdown="1" style="display: inline-block">
 
 <h3 class="archive__subtitle">Recent Updates</h3>
