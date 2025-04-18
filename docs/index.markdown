@@ -24,7 +24,7 @@ feature_row:
   - image_path: /assets/images/data.jpg
     alt: "data"
     title: "Global Data"
-    excerpt: "CPF combines data from seven countries, includes 2.7 million observations from almost 360 thousand respondents."
+    excerpt: "CPF combines data from 7 countries, 2.7 million observations from almost 360,000 respondents."
     url: "/data/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
@@ -71,30 +71,42 @@ gallery:
 {% include feature_row %}
 
 <!-- modify this form HTML and place wherever you want your form -->
+<section id="cta" class="wrapper style3" markdown="1">
 
-<div markdown="1">
-### Subscribe to our Mailing List!
+
+## Subscribe to our Mailing List!
 {: .text-center}
 
 <form
   action="https://formspree.io/f/mjkyjgkd"
   method="POST"
+class="container"
 >
-  <label>
-    Your name:
-    <input name="name">
-  </label>
-  <label>
-    Your email:
-    <input type="email" name="email">
-  </label>
+<div class="row">
+
+  <div class="col-5 col-6-narrow col-12-mobilep">
+
+      <input type="text" name="name" id="name" placeholder="Your Name">
+  </div>
+
+  <div class="col-5 col-6-narrow col-12-mobilep">
+      <input type="email" name="email" id="email" placeholder="Your E-mail">
+  </div>
 
   <!-- your other form fields go here -->
-  <button type="submit" class="btn btn--primary">Send</button>
-</form>
+  <div class="col-2 col-12-narrow col-12-mobilep">
+
+    <input type="submit" class="button alt" value="Send"> 
+  </div>
+
 </div>
 
-<div markdown="1" style="display: inline-block">
+</form>
+
+</section>
+
+
+<div markdown="1" style="display: flow-root">
 
 <h3 class="archive__subtitle">Recent Updates</h3>
 
