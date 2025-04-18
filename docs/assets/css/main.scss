@@ -2499,18 +2499,23 @@ input, select, textarea {
 			margin: 0;
 		}
 
+        #site-nav > a.site-logo {
+            min-width: 90px;
+        }
+
     .greedy-nav > a {
             color: #FCFBFB !important;
             text-decoration: none;
             border: 0;
             display: block;
-            margin: 0 0.6rem;
         }
         .greedy-nav > ul > li a {
             color: #c0c0c0;
             text-decoration: none;
             border: 0;
             display: block;
+            margin: 0 0.6rem;
+
             // padding: 1.5em 0.5em 1.35em 0.5em;
         }
 			#site-nav > ul > li {
@@ -3322,7 +3327,7 @@ input[type="button"],
 
     .masthead__menu-item {
         line-height: 2em;
-        padding: 0 1.1em 0 1em;
+        // padding: 0 1.1em 0 1em;
     }
 
         .masthead__menu-item > a {
