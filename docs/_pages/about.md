@@ -1,9 +1,11 @@
 ---
-title: About
+title: About us
 permalink: /about/
 toc: true
 header:
-  overlay_color: "#333"
+  overlay_color: "#0092ca"
+  overlay_filter: 0.4
+  overlay_image: /assets/images/about.jpeg
 
 ---
 ## The idea of CPF
@@ -23,8 +25,8 @@ The first version of CPF (1.0) was published in December 2020. The idea of the c
 {: .notice}
 
 ## Our team
-<div  style="display: grid;">
-<div markdown="1">
+<div class="container">
+<div class="box post" markdown="1">
 ![Konrad Turek]({{ site.url }}{{ site.baseurl }}/assets/images/konrad.webp){: .align-left width="150"}
 ### [Konrad Turek](https://konradturek.com)
 {: style="margin-top: 0.6em"}
@@ -35,7 +37,7 @@ Assistant professor, sociology, work & ageing labour markets, life course inequa
 <br/>
 </div>
 
-<div markdown="1">
+<div class="box post" markdown="1">
 ![Thomas Leopold]({{ site.url }}{{ site.baseurl }}/assets/images/thomas.webp){: .align-left width="150"}
 ### [Thomas Leopold](https://www.thomasleopold.eu){: .style="margin-top: 1.5em"}
 {: style="margin-top: 0.6em"}
@@ -48,7 +50,7 @@ Assistant professor, sociology, work & ageing labour markets, life course inequa
 </div>
 
 
-<div markdown="1">
+<div class="box post" markdown="1">
 ![Matthijs Kalmijn]({{ site.url }}{{ site.baseurl }}/assets/images/matthijs.webp){: .align-left width="150"}
 ### [Matthijs Kalmijn](https://www.matthijskalmijn.nl)
 {: style="margin-top: 0.6em"}
@@ -60,7 +62,7 @@ Professor of demography and sociology at the Netherlands Interdisciplinary Demog
 
 </div>
 
-<div markdown="1">
+<div class="box post" markdown="1">
 ![Isabel Voets]({{ site.url }}{{ site.baseurl }}/assets/images/isabel.webp){: .align-left width="150"}
 ### [Isabel Voets](http://www.linkedin.com/in/isabelvoets)
 {: style="margin-top: 0.6em"}
@@ -72,7 +74,7 @@ Research Assistant for CPF in year 2020-2021 at NIDI-KNAW.  MSc Double Degree So
 </div>
 
 
-<div markdown="1">
+<div class="box post" markdown="1">
 
 ![Xu Xiao]({{ site.url }}{{ site.baseurl }}/assets/images/xiao.jpg){: .align-left width="150" margin-top="1.5em"}
 ### [Xu Xiao](http://xuxiao.nl)

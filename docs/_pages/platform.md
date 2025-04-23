@@ -4,7 +4,9 @@ excerpt: Organisation and developement of CPF
 layout: single
 permalink: /platform/
 header:
-  overlay_color: "#333"
+  overlay_color: "#0092ca"
+  overlay_filter: 0.4
+  overlay_image: /assets/images/platform.jpeg
 
 ---
 
@@ -20,7 +22,7 @@ The central element is the project’s [website](www.cpfdata.com) that contains 
 
 Links to the resources:
 
-- Website: [cpfdata.com](cpfdata.com)
-- Forum: [cpfdata.com/forum](cpfdata.com/forum)
-- GitHub: [github.com/cpfdata](github.com/cpfdata)
-- OSF: [osf.io/h3yxq](osf.io/h3yxq)
+- Website: [cpfdata.com](https://cpfdata.com)
+- Forum: [cpfdata.com/forum](https://cpfdata.com/forum)
+- GitHub: [github.com/cpfdata](https://github.com/cpfdata)
+- OSF: [osf.io/h3yxq](https://osf.io/h3yxq)

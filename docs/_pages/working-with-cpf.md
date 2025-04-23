@@ -3,7 +3,9 @@ title: Working with CPF
 layout: single
 permalink: /working-with-cpf/
 header:
-  overlay_color: "#333"
+  overlay_color: "#0092ca"
+  overlay_filter: 0.4
+  overlay_image: /assets/images/working.png
 toc: true
 classes: wide
 

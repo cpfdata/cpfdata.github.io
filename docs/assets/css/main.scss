@@ -133,7 +133,7 @@ input, select, textarea {
 
 		a:hover {
 			color: #0092ca;
-			border-bottom-color: transparent;
+			// border-bottom-color: transparent;
 		}
 
 	strong, b {
@@ -2030,7 +2030,7 @@ input, select, textarea {
 		background: #fff;
 		border: solid 1px #e0e0e0;
 		border-radius: 5px;
-		color: inherit;
+		color: black;
 		display: block;
 		outline: 0;
 		padding: 0.75em;
@@ -2501,6 +2501,10 @@ input, select, textarea {
 
         #site-nav > a.site-logo {
             min-width: 90px;
+        }
+        #site-nav > a.site-title {
+            min-width: 150px;
+            margin-right: 0;
         }
 
     .greedy-nav > a {
@@ -3295,6 +3299,12 @@ input[type="button"],
         font-size: 0.8em;
     }
 
+
+.sponsors {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials

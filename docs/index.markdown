@@ -60,6 +60,10 @@ gallery:
     image_path: /assets/images/liss.png
     alt: "LISS Panel"
     title: "LISS Panel"
+  - url: https://nwo.nl/
+    image_path: /assets/images/nwo.png
+    alt: "NWO"
+    title: "NWO"
   - url: https://www.lissdata.nl/
     image_path: /assets/images/norface.png
     alt: "Norface Network"
@@ -130,5 +134,26 @@ class="container"
 {: .text-center}
 <div style="width: 70%; margin-left: auto; margin-right: auto;" markdown="1">
 
-{% include gallery %}
+<div class="container">
+    <div class="row sponsors">
+      <section class="col-2 col-4-narrower">
+        <a href="https://nidi.nl/en/" class=""><img src="/assets/images/nidi.svg" alt=""></a>
+      </section>
+      <section class="col-2 col-4-narrower">
+        <a href="https://www.uni-koeln.de/en/" class="image"><img src="/assets/images/cologne.png" alt=""></a>
+      </section>
+      <section class="col-2 col-4-narrower">
+        <a href="https://www.tilburguniversity.edu/" class="image"><img src="https://cdn.brandfetch.io/id-OjnWo8f/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt=""></a>
+      </section>
+      <section class="col-2 col-4-narrower">
+        <a href="https://www.lissdata.nl/" class="image"><img src="/assets/images/liss.png" alt=""></a>
+      </section>
+      <section class="col-2 col-4-narrower">
+        <a href="https://nwo.nl/" class="image"><img src="/assets/images/nwo.png" alt=""></a>
+      </section>
+      <section class="col-2 col-4-narrower">
+        <a href="https://www.norface.net/" class="image"><img src="/assets/images/norface.png" alt=""></a>
+      </section>
+    </div>
+  </div>
 </div>
