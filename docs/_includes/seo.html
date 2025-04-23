@@ -4,7 +4,7 @@
 {%- assign page_title = page.title | default: site.title | replace: '|', '&#124;' -%}
 {%- if page_title contains site.title -%}
   {%- assign seo_title = page_title | replace: '|', '&#124;' -%}
-{%- elsif page_title contains 'CPF' -%}
+{%- elsif page_title contains 'the easy way' -%}
     {%- assign seo_title = 'Comparative Panel File' -%}
 {%- else -%}
   {%- assign seo_title = page_title | append: " " | append: title_separator | append: " " | append: site.title | replace: '|', '&#124;' -%}
