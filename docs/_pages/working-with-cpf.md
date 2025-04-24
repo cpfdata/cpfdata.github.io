@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/working.png
 toc: true
 classes: wide
-
+share: true 
 ---
 
 ## Using the CPF code

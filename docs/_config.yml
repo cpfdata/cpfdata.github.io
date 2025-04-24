@@ -29,6 +29,13 @@ url: "https://cpfdata.github.io/" # the base hostname & protocol for your site, 
 
 repository: "cpfdata/cpfdata.github.io"
 
+comments:
+  provider: "utterances"
+  utterances:
+    theme: "github-light" # "github-dark"
+    issue_term: "pathname"
+    label: "Comment" # Optional - must be existing label.
+
 atom_feed:
   hide: true
 
@@ -42,18 +49,18 @@ include: ["_pages"]
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/cpfdata"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+      url: "https://github.com/cpfdata"
+    - label: "BlueSky"
+      icon: "fab fa-fw fa-square-bluesky"
+      url: "https://bsky.app/profile/dailybunnies.bsky.social"
 
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+remote_theme: "mmistakes/minimal-mistakes@4.27.0"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
@@ -98,6 +105,7 @@ defaults:
       layout: single
       read_time: false
       related: false
+      comments: true
 
 
 

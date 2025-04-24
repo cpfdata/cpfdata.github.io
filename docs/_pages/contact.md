@@ -4,6 +4,7 @@ permalink: /contact/
 toc: true
 header:
   overlay_color: "#333"
+share: true 
 
 ---
 

@@ -18,6 +18,8 @@ I added several useful varialbes to the main code at Github. This latest version
 
 For example, kids_hh_04:
 
+![kids_hh_04](/assets/images/table.webp)
+
 
 Not all of the new variables could have been harmonized across all countries.
 
