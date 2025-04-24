@@ -7,6 +7,7 @@ header:
   overlay_color: "#0092ca"
   overlay_filter: 0.4
   overlay_image: /assets/images/platform.jpeg
+comments: true
 
 ---
 

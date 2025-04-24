@@ -6,6 +6,7 @@ header:
   overlay_filter: 0.4
   overlay_image: /assets/images/data.jpg
 share: true 
+comments: true
 
 ---
 

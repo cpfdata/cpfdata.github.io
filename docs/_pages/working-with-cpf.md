@@ -9,6 +9,8 @@ header:
 toc: true
 classes: wide
 share: true 
+comments: true
+
 ---
 
 ## Using the CPF code

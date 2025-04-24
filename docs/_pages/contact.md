@@ -1,12 +1,32 @@
 ---
 title: Contact us
+excerpt: We are happy to support research and cooperation in research network by linking people and institutions. Do not hesitate to contact us!
 permalink: /contact/
 toc: true
 header:
-  overlay_color: "#333"
+  overlay_color: "#0092ca"
+  overlay_filter: 0.4
+  overlay_image: /assets/images/about.jpeg
 share: true 
 
 ---
+
+
+## Email
+
+**[contact@cpfdata.com](mailto:contact@cpfdata.com)**
+
+
+## Help and support
+
+The up-to-date documentation of CPF can always be found at the projects’ website. Questions regarding the CPF code can be asked below each page or post.
+
+## Contribution
+
+CPF is an open-source and ongoing project. We invite interested users to provide feedback or contribute to its development. Leave your comments at the website for general communication, discussions and suggestions related to the project. [GitHub](https://github.com/cpfdata) is precisely oriented at code development. 
+
+
+## Find us
 
 Konrad Turek
 
