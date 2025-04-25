@@ -28,11 +28,9 @@ CPF is an open-source and ongoing project. We invite interested users to provide
 
 ## Find us
 
-Konrad Turek
+**Konrad Turek** 
 
-Assistant Professor
-
-Tilburg University & Netherlands Interdisciplinary Demographic Institute (NIDI)
+Assistant Professor || Tilburg University || Netherlands Interdisciplinary Demographic Institute (NIDI)
 
 <ins>[k.l.turek@tilburguniversity.edu](mailto:k.l.turek@tilburguniversity.edu)</ins>
 
