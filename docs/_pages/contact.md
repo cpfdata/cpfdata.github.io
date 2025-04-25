@@ -29,9 +29,7 @@ CPF is an open-source and ongoing project. We invite interested users to provide
 ## Find us
 
 Konrad Turek
-
-Netherlands Interdisciplinary Demographic Institute (NIDI-KNAW)
-
-Lange Houtstraat 19
-
-2511 CV, The Hague, Netherlands
+Assistant Professor
+Tilburg University & Netherlands Interdisciplinary Demographic Institute (NIDI)
+[k.l.turek@tilburguniversity.edu](mailto:k.l.turek@tilburguniversity.edu)
+[www.konradturek.com]
