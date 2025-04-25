@@ -14,7 +14,7 @@ share: true
 
 ## Email
 
-**[contact@cpfdata.com](mailto:contact@cpfdata.com)**
+<ins>**[contact@cpfdata.com](mailto:contact@cpfdata.com)**</ins>
 
 
 ## Help and support
@@ -34,6 +34,6 @@ Assistant Professor
 
 Tilburg University & Netherlands Interdisciplinary Demographic Institute (NIDI)
 
-[k.l.turek@tilburguniversity.edu](mailto:k.l.turek@tilburguniversity.edu)
+<ins>[k.l.turek@tilburguniversity.edu](mailto:k.l.turek@tilburguniversity.edu)</ins>
 
-[www.konradturek.com](https://www.konradturek.com)
+<ins>[www.konradturek.com](https://www.konradturek.com)</ins>
