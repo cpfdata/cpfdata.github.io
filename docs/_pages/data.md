@@ -5,9 +5,8 @@ header:
   overlay_color: "#0092ca"
   overlay_filter: 0.4
   overlay_image: /assets/images/data.jpg
-  image_description: "Data header image"
-  caption: "CPF Data"
-  classes: "header-fixed-height"
+  header_image_width: 1200
+  header_image_height: 400
 share: true 
 comments: true
 
