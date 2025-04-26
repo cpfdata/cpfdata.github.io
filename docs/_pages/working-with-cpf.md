@@ -6,7 +6,6 @@ header:
   overlay_color: "#0092ca"
   overlay_filter: 0.4
   overlay_image: /assets/images/working.png
-  header_image_width: 1200
 toc: true
 classes: wide
 share: true 
