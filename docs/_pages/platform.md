@@ -8,7 +8,6 @@ header:
   overlay_filter: 0.4
   overlay_image: /assets/images/platform.jpeg
   header_image_width: 1200
-  header_image_height: 400
 comments: true
 
 ---

@@ -8,7 +8,6 @@ header:
   overlay_filter: 0.4
   overlay_image: /assets/images/download.jpeg
   header_image_width: 1200
-  header_image_height: 400
 date:   2025-03-12 13:04:04 +0100
 share: true 
 comments: true
