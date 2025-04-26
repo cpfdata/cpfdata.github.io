@@ -27,6 +27,8 @@ The first version of CPF (1.0) was published in December 2020. The idea of the c
 
 ## Our team
 <div class="container">
+  
+**Core team**
 <div class="box post" markdown="1">
 ![Konrad Turek]({{ site.url }}{{ site.baseurl }}/assets/images/konrad.webp){: .align-left width="150"}
 ### [Konrad Turek](https://konradturek.com)
@@ -43,7 +45,7 @@ Assistant professor, sociology, work & ageing labour markets, life course inequa
 ### [Thomas Leopold](https://www.thomasleopold.eu){: .style="margin-top: 1.5em"}
 {: style="margin-top: 0.6em"}
 
-Assistant professor, sociology, work & ageing labour markets, life course inequalities at Tilburg University
+Full professor of Sociology at the University of Cologne, the Chair for Methods of Empirical Social Research. 
 {: .text-left  style="font-size:0.75em"}
 
 <br/>
@@ -56,10 +58,12 @@ Assistant professor, sociology, work & ageing labour markets, life course inequa
 ### [Matthijs Kalmijn](https://www.matthijskalmijn.nl)
 {: style="margin-top: 0.6em"}
 
-Professor of demography and sociology at the Netherlands Interdisciplinary Demographic Institute (NIDI-KNAW)<br/><br/>
+Professor of demography and sociology at the Netherlands Interdisciplinary Demographic Institute (NIDI), theme leader ‘Families and Gender’. Professor of Sociology at the University of Groningen. <br/><br/>
 {: .text-left  style="font-size:0.75em"}
 
 <br/>
+
+**Supportive team**
 
 </div>
 
@@ -68,7 +72,7 @@ Professor of demography and sociology at the Netherlands Interdisciplinary Demog
 ### [Isabel Voets](http://www.linkedin.com/in/isabelvoets)
 {: style="margin-top: 0.6em"}
 
-Research Assistant for CPF in year 2020-2021 at NIDI-KNAW.  MSc Double Degree Sociology and Population Studies (Tilburg University / Universitat Pompeu Fabra)
+Research Assistant for CPF (2022-2023) at NIDI-KNAW.  MSc Double Degree Sociology and Population Studies (Tilburg University / Universitat Pompeu Fabra)
 {: .text-left  style="font-size:0.75em"}
 <br/>
 
@@ -83,7 +87,7 @@ Research Assistant for CPF in year 2020-2021 at NIDI-KNAW.  MSc Double Degree So
 *In this Chinese name, the family name is Xu.*
 {: style="font-size:0.5em"}
 
-Postdoctoral Researcher for CPF at Tilburg University. PhD candidate Computational Demography (NIDI-KNAW / University of Groningen)
+Postdoctoral Researcher for CPF (2025) at Tilburg University. PhD candidate Computational Demography (NIDI-KNAW / University of Groningen)
 {: .text-left  style="font-size:0.75em"}
 </div>
 
