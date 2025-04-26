@@ -29,6 +29,7 @@ The first version of CPF (1.0) was published in December 2020. The idea of the c
 <div class="container">
   
 **Core team**
+
 <div class="box post" markdown="1">
 ![Konrad Turek]({{ site.url }}{{ site.baseurl }}/assets/images/konrad.webp){: .align-left width="150"}
 ### [Konrad Turek](https://konradturek.com)
