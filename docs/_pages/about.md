@@ -27,7 +27,7 @@ The first version of CPF (1.0) was published in December 2020. The idea of the c
 
 ## Our team
 <div class="container">
-  
+
 **Core team**
 
 <div class="box post" markdown="1">
