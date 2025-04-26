@@ -28,10 +28,8 @@ The first version of CPF (1.0) was published in December 2020. The idea of the c
 ## Our team
 <div class="container">
   
-<br/>
-**Core team**
-<br/>
-
+<strong>Core team</strong>
+  
 <div class="box post" markdown="1">
 ![Konrad Turek]({{ site.url }}{{ site.baseurl }}/assets/images/konrad.webp){: .align-left width="150"}
 ### [Konrad Turek](https://konradturek.com)
@@ -66,9 +64,10 @@ Professor of demography and sociology at the Netherlands Interdisciplinary Demog
 
 <br/>
 
-**Supporting team**
 
 </div>
+
+<strong>Supporting team</strong>
 
 <div class="box post" markdown="1">
 ![Isabel Voets]({{ site.url }}{{ site.baseurl }}/assets/images/isabel.webp){: .align-left width="150"}
