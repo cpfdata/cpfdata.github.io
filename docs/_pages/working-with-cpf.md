@@ -6,8 +6,9 @@ header:
   overlay_color: "#0092ca"
   overlay_filter: 0.4
   overlay_image: /assets/images/working.png
-  header_image_width: 1200
-  header_image_height: 400
+  image_description: "Working with CPF header image"
+  caption: "Working with CPF"
+  classes: "header-fixed-height"
 toc: true
 classes: wide
 share: true 
