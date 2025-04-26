@@ -63,7 +63,7 @@ Professor of demography and sociology at the Netherlands Interdisciplinary Demog
 
 <br/>
 
-**Supportive team**
+**Supporting team**
 
 </div>
 
