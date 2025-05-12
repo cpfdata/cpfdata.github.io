@@ -93,7 +93,7 @@ defaults:
     values:
       layout: single
       author_profile: false
-      read_time: false
+      read_time: true
       comments: true
       share: true
       related: true
