@@ -36,5 +36,5 @@ Have you used at least part of the CPF code for your work and would like to incl
 {: .notice--info}
 
 Turek K., Henkens K., M. Kalmijn (2024)\
-**[Gender and Educational Inequalities in Extending Working Lives: Late-Life Employment Trajectories Across Three Decades in Seven Countries](https://doi-org.tilburguniversity.idm.oclc.org/10.1093/workar/waac021)**\
+**[Gender and Educational Inequalities in Extending Working Lives: Late-Life Employment Trajectories Across Three Decades in Seven Countries](https://academic.oup.com/workar/advance-article/doi/10.1093/workar/waac021/6702675)**\
 Work, Aging & Retirement, 10(2):100–122. [replication code (https://osf.io/hakg6/)]
