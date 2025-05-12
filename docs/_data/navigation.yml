@@ -1,12 +1,12 @@
 main:
   - title: "Download"
     url: /download/
-  - title: "Platform"
-    url: /platform/
+  - title: "Updates"
+    url: /updates/
   - title: "Working with CPF"
     url: /working-with-cpf/
-  - title: "FAQ"
-    url: /faq/
+  - title: "Publications"
+    url: /publications/
   - title: "About"
     url: /about/
   - title: "Contact"

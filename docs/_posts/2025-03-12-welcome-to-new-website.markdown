@@ -1,7 +1,7 @@
 ---
 title:  "Welcome to the new website of CPF!"
 date:   2025-03-12 13:04:04 +0100
-categories: website update
+categories: update
 ---
 
 At Comparative Panel File (CPF), we aim to support the community of sociologists, demographers and other researchers interested in comparative life course studies. This is now made easier via our brand new website.
