@@ -15,12 +15,12 @@ read_time: false
 ## CPF-related publications
 
 Turek K. (2025)\
-**[Accelerating Social Science Knowledge Production with the Coordinated Open-Source Model](https://doi-org.tilburguniversity.idm.oclc.org/10.1007/s11135-024-02020-7)**\
+**[Accelerating Social Science Knowledge Production with the Coordinated Open-Source Model](https://link.springer.com/article/10.1007/s11135-024-02020-7)**\
 Quality & Quantity
 
 
 Turek K., M. Kalmijn, T. Leopold (2021)\
-**[The Comparative Panel File (CPF): Harmonized Household Panel Surveys from Seven Countries](https://doi-org.tilburguniversity.idm.oclc.org/10.1093/esr/jcab006)**\
+**[The Comparative Panel File (CPF): Harmonized Household Panel Surveys from Seven Countries](https://doi.org/10.1093/esr/jcab006)**\
 European Sociological Review , 37(3): 505–523
 
 ## Newsletters
