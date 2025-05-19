@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/download.jpeg
 date:   2025-03-12 13:04:04 +0100
 share: true 
-comments: true
+comments: false
 
 ---
 **Information:** Links re-direct to GitHub server where the current version of the files is stored.

@@ -1,4 +1,6 @@
 main:
+  - title: "Data"
+    url: /data/
   - title: "Download"
     url: /download/
   - title: "Updates"
