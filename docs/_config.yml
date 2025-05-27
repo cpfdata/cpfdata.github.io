@@ -51,13 +51,13 @@ footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/cpfdata"
+      url: "https://www.linkedin.com/company/cpfdata/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cpfdata"
     - label: "BlueSky"
       icon: "fab fa-fw fa-square-bluesky"
-      url: "https://bsky.app/profile/dailybunnies.bsky.social"
+      url: "https://bsky.app/profile/cpfdata.bsky.social"
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.27.0"
