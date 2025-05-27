@@ -9,7 +9,7 @@ What’s new in CPF 2.0?
 
 - ✅ Latest waves, new variables, and improved code for all seven existing country panel files
 
-- ✅ Expansion to include the Netherlands, using the Centerdata LISS panel! 
+- ✅ Expansion to include the Netherlands, using the [LISS panel](https://www.lissdata.nl/)! 
 
 
 
