@@ -1,7 +1,7 @@
 ---
-title:  "Newsletter April"
-date:   2025-04-09 13:04:04 +0100
+title:  "Newsletter June"
+date:   2025-06-01 09:04:04 +0100
 categories: newsletter
 ---
 
-lorem ipsum
+Welcome to the first newsletter for the Comparative Panel File (CPF) Open Harmonization!
