@@ -10,10 +10,8 @@ Comparative and life-course survey researchers, stay up to date with new CPF dev
 
 ✔️ Sign up for the newsletter
 
-✔️ CPF ver. 2.0 is coming soon! Latest waves, new variables, and improved code
-
-✔️ CPF 2.0 will include the Netherlands with the Centerdata LISS panel! 
-
 ✔️ New tutorials and materials coming soon 
 
 ✔️ Share publications and projects that use the CPF code 
+
+CPF ver. 2.0 is coming soon! Latest waves, new variables, improved code and new data from the Netherlands! 
