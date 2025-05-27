@@ -23,7 +23,7 @@ CPF version 1.5. covers the period until 2020, combines seven countries:
 - **United Kingdom**: BHPS/UKHLS (British Household Panel Survey; Understanding Society – UK Household Longitudinal Study)
 - **United States**: PSID (Panel Study of Income Dynamics)
 
-The full dataset (ver 1.5, 2024) includes in total over 3 million observations from almost 395 thousand respondents. The oldest survey is PSID which started in 1968 and collected 41 waves until now. The second oldest is SOPE which started in 1984 and collected 36 waves. From 1994, CPF includes four countries, from 1999 – five. The youngest panel study in CPF is HILDA with 19 waves since 2001. 
+The full dataset (ver 1.5, 2023) includes in total over 3 million observations from almost 395 thousand respondents. The oldest survey is PSID which started in 1968 and collected 41 waves until now. The second oldest is SOPE which started in 1984 and collected 36 waves. From 1994, CPF includes four countries, from 1999 – five. The youngest panel study in CPF is HILDA with 19 waves since 2001. 
 
 ### Number of waves, observations and respondents (CPF ver. 1.0)
 
