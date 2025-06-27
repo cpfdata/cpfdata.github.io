@@ -16,8 +16,7 @@ In this video, Konrad discusses:
  
  🔹 Key advantages—and challenges—of collaborative, transparent data work
 
-<ins>[Full interview](https://methods.sagepub.com/video/konrad-turek-discusses-open-source-knowledge-production)</ins>
-![Sage_interview](/assets/images/Sage_interview.png)
+[![Sage_interview](/assets/images/Sage_interview.png)](https://methods.sagepub.com/video/konrad-turek-discusses-open-source-knowledge-production)
 
 Open-source science is reshaping how we collaborate and innovate—making research faster, more flexible, and better equipped to tackle complex societal challenges.
 
