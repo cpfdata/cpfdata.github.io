@@ -16,6 +16,8 @@ In this video, Konrad discusses:
  
  🔹 Key advantages—and challenges—of collaborative, transparent data work
 
+![Sage_interview](/assets/images/Sage_interview.png)
+
 
 Open-source science is reshaping how we collaborate and innovate—making research faster, more flexible, and better equipped to tackle complex societal challenges.
 
