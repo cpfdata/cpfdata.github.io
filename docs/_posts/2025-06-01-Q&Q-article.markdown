@@ -15,6 +15,7 @@ CPF Open Harmonization is a good example of open collaborations. This is where r
 These kinds of initiatives don’t replace traditional research infrastructures, but they can be powerful complementary solutions. 
 In computational social science, especially where heavy coding is involved, they have great potential. 
 
+![QQarticle](/assets/images/articleQQ.png)
 
 💡 Have a look at the full paper for a deeper dive into the topic: <ins>[open article ](https://lnkd.in/emyZN_HV )</ins>: 
 Turek K. (2025) Accelerating social science knowledge production with the coordinated open-source model, Quality & Quantity. https://doi.org/10.1007/s11135-024-02020-7
