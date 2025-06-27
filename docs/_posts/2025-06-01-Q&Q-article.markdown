@@ -4,7 +4,7 @@ date:   2025-06-01 10:04:04 +0100
 categories: update
 ---
 
-In this new article, Konrad Turek discusses open science and refers to the Comparative Panel File. What it means to “open” knowledge production in social science? Especially through open-source and crowd-based collaboration? 
+In this new <ins>[article](https://lnkd.in/emyZN_HV )</ins>, Konrad Turek discusses open science and refers to the Comparative Panel File. What it means to “open” knowledge production in social science? Especially through open-source and crowd-based collaboration? 
 
 Open science is changing how we produce, verify, and share knowledge. And it’s not just about open-access publications, preregistration, or replication studies. It’s also about rethinking how we collaborate and build scientific infrastructure. 
 Open source tools, code sharing, collaborative workflows, crowd-based cooperations – these can be powerful ways to work faster, smarter, cheaper, and across disciplines. They help us tackle big questions and innovate in ways that traditional structures sometimes can’t. Natural sciences are leading the way in these developments. 
