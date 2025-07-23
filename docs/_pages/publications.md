@@ -12,7 +12,7 @@ read_time: false
 
 ---
 
-## Main CPF-related publications
+## Main CPF publications
 
 <div class="publication" markdown="1">
 
@@ -31,7 +31,7 @@ Turek K., M. Kalmijn, T. Leopold (2021) **[The Comparative Panel File (CPF): Har
 </div>
 </div>
 
-## Publications using CPF 
+## Publications with & about CPF 
 
 <div class="publication" markdown="1">
 
