@@ -12,7 +12,7 @@ read_time: false
 
 ---
 
-## CPF-related publications
+## Main CPF-related publications
 
 <div class="publication" markdown="1">
 
@@ -35,7 +35,7 @@ European Sociological Review, 37(3): 505–523
 </div>
 </div>
 
-## Users publications
+## Publications using CPF 
 
 <div class="publication" markdown="1">
 
