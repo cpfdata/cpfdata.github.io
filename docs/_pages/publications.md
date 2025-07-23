@@ -54,9 +54,14 @@ Latner J. (2024) **[The effect of transitioning into temporary employment on wag
 
 dos Santos S., Dieckhoff M., Ehlert M., Mertens A. (2024) **[Does training beget training over the life course? Cumulative advantage in work-related non-formal training participation in Germany and the UK](https://doi.org/10.1093/esr/jcae022)** , European Sociological Review, 40(3): 464–478.
 
+Schechtl M., Waitkus N. (2024). **[Where Income Becomes Wealth: How Redistribution Moderates the Association between Income and Wealth](https://doi.org/10.1177/23780231241261599)**, Socius, 10.
+
 van Wijk D., Billari F. (2024) **[Fertility Postponement, Economic Uncertainty, and the Increasing Income Prerequisites of Parenthood](https://doi-org.tilburguniversity.idm.oclc.org/10.1111/padr.12624)**, Population and Development Review, 50: 287-322
 
+
 **--- 2021-2023 ---**
+
+Benzeval M., Crossley T., Aguirre E. (2023) **[A symposium on Understanding Society, the UK Household Longitudinal Study: introduction](https://doi.org/10.1111/1475-5890.12355)**, Fiscal Studies, 44(4)
 
 Hudde A., Jacob M. (2023) **[There’s More in the Data! Using MonthSpecific Information to Estimate Changes Before and After Major Life Events](https://sociologicalscience.com/articles-v10-29-830/)**, Sociological Science, 10: 830-856.
 
@@ -69,7 +74,7 @@ Thielemans G., Mortelmans D. (2022) **[Poverty Risks after Relationship Dissolut
 Turek K., Henkens K., M. Kalmijn (2022) **[Gender and Educational Inequalities in Extending Working Lives: Late-Life Employment Trajectories Across Three Decades in Seven Countries](https://academic.oup.com/workar/advance-article/doi/10.1093/workar/waac021/6702675)** 
 Work, Aging & Retirement, 10(2):100–122.  | <ins>[Replication code](https://osf.io/hakg6)</ins>  
 
-Hudde A., Hank K., Jacob M. (2021). **[Gender Role Attitudes Cannot Explain How British Couples Responded to Increased Housework Demands during the COVID-19 Pandemic](https://doi-org.tilburguniversity.idm.oclc.org/10.1177/23780231211064395)**, Socius, 7. 
+Hudde A., Hank K., Jacob M. (2021). **[Gender Role Attitudes Cannot Explain How British Couples Responded to Increased Housework Demands during the COVID-19 Pandemic](https://doi.org/10.1177/23780231211064395)**, Socius, 7. 
 
 
 
