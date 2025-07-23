@@ -66,7 +66,8 @@ van Wijk, D. (2023) **[From Prosperity to Parenthood: how Employment, Income, an
 
 Thielemans G., Mortelmans D. (2022) **[Poverty Risks after Relationship Dissolution and the Role of Children: A Contemporary Longitudinal Analysis of Seven OECD Countries](https://doi.org/10.3390/socsci11030138)**, Social Sciences, 11(3), 138. 
 
-Turek K., Henkens K., M. Kalmijn (2022) **[Gender and Educational Inequalities in Extending Working Lives: Late-Life Employment Trajectories Across Three Decades in Seven Countries](https://academic.oup.com/workar/advance-article/doi/10.1093/workar/waac021/6702675)**, Work, Aging & Retirement, 10(2):100–122.  | <ins>[Replication code](https://osf.io/hakg6)</ins>  
+Turek K., Henkens K., M. Kalmijn (2022) **[Gender and Educational Inequalities in Extending Working Lives: Late-Life Employment Trajectories Across Three Decades in Seven Countries](https://academic.oup.com/workar/advance-article/doi/10.1093/workar/waac021/6702675)** 
+Work, Aging & Retirement, 10(2):100–122.  | <ins>[Replication code](https://osf.io/hakg6)</ins>  
 
 Hudde A., Hank K., Jacob M. (2021). **[Gender Role Attitudes Cannot Explain How British Couples Responded to Increased Housework Demands during the COVID-19 Pandemic](https://doi-org.tilburguniversity.idm.oclc.org/10.1177/23780231211064395)**, Socius, 7. 
 
