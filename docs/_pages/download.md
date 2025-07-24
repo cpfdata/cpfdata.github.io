@@ -36,7 +36,7 @@ comments: false
 
 The file opens on GitHub.
 
-[Download Manual](https://github.com/cpfdata/CPF-Documentation/blob/main/CPF2.0_Manual_v1_250724){: .btn .btn--primary .btn--large}
+[Download Manual](https://github.com/cpfdata/CPF-Documentation/blob/main/CPF2.0_Manual_v1_250724.pdf){: .btn .btn--primary .btn--large}
 
 
 ## Codebook
