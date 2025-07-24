@@ -1,9 +1,9 @@
-
 ---
 title:  "CPF v.1.6 – what’s new?"
 date:   2024-12-03 09:04:04 +0100
 categories: update
 ---
+
 Small updates to the v.1.6 code:
 
 1.	A correction of the code for kidsn_hh_34 and kidsn_hh_04 in Korea and Russia – variables were showing wrong counts 
