@@ -16,7 +16,7 @@ comments: false
 {: .notice--info}
 
 ## CPF syntax
-**Current version:** CPF ver. 1.5 (31.05.2023)
+**Current version:** CPF ver. 2.0 (July 2025)
 
 **File:** CPF-code-main.zip
 
@@ -32,21 +32,21 @@ comments: false
 ## Manual
 **File:** CPF_Manual_v*.pdf
 
-**Information:** The manual presents the design and content of the CPF, explains the logic of the project, workflow and technical details. It also describes the CPF’s open-science platform.
+**Information:** The manual presents the design and content of the current version of CPF, explains the logic of the project, workflow and technical details. It also describes the CPF’s open-science platform.
 
 The file opens on GitHub.
 
-[Download Manual](https://github.com/cpfdata/CPF-Documentation/blob/main/CPF_manual%20v1.5.pdf){: .btn .btn--primary .btn--large}
+[Download Manual](https://github.com/cpfdata/CPF-Documentation/blob/main/CPF2.0_Manual_v1_250724){: .btn .btn--primary .btn--large}
 
 
 ## Codebook
 **File:**  CPF_Codebook_v*.pdf
 
-**Information:** The Codebook presents an overview of variables included in the CPF database in version 1.0. It includes definition, labels and response categories, total frequencies and cross-tabulation by country, additional notes, presentation of original questions and source variables. 
+**Information:** The Codebook presents an overview of variables included in the current version of CPF. It includes definition, labels and response categories, total frequencies and cross-tabulation by country, additional notes, presentation of original questions and source variables. 
 
 The file opens on GitHub.
 
-[Download Codebook](https://github.com/cpfdata/CPF-Documentation/blob/main/CPF_Codebook_v1.5.pdf){: .btn .btn--primary .btn--large}
+[Download Codebook](https://github.com/cpfdata/CPF-Documentation/blob/main/CPF2.0_Codebook_v1_250724.pdf){: .btn .btn--primary .btn--large}
 
 
 
