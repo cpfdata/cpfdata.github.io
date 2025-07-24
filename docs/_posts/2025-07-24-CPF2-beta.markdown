@@ -4,20 +4,20 @@ date:   2025-07-24 09:04:04 +0100
 categories: update
 ---
 
-We are happy to announce that the beta version of CPF 2.0 (still in testing phase) has been released!
+We are happy to announce that the beta version of CPF 2.0 (still in testing phase) has been released! The updated version (including supporting materials) will be availible in September-October 2025. For not, the beta version is availible to download **[here](https://cpfdata.com/download/)** and at **[GitHub](https://github.com/cpfdata)**. More information is availible in the **[Manual](https://github.com/cpfdata/CPF-Documentation/blob/main/CPF2.0_Manual_v1_250724)** and **[Codebook](https://github.com/cpfdata/CPF-Documentation/blob/main/CPF2.0_Codebook_v1_250724.pdf)**. 
 
-It is availible to download **[here](https://cpfdata.com/download/)** and at **[GitHub](https://github.com/cpfdata)**. 
+Please let us know about any problems or errors: <k.l.turek@tilburguniversity.edu>. 
 
-1.	The CPF version 2.0 encompasses up to 43 waves (between 1968 and 2024), combines data from seven countries, and comprises approximately 3 million observations from more than 400,000 respondents.
+✅ The CPF version 2.0 encompasses up to 43 waves (between 1968 and 2024), combines data from seven countries, and comprises approximately 3 million observations from more than 400,000 respondents.
 
-2.	The LISS panel from the Netherlands was added, offering high-quality annual data across diverse life domains. This was done in collaboration with Priscilla Zhang from Centrdata (the authors of the LISS survey).
+✅ The LISS panel from the Netherlands was added, offering high-quality annual data across diverse life domains. This was done in collaboration with Priscilla Zhang from Centrdata (the authors of the LISS survey).
 
-3.	The Russian part of the project (RLMS) has been excluded from CPF v2.0 in response to Russia’s 2022 invasion of Ukraine. See the note **[here](https://cpfdata.com/update/2025/07/01/excluding-russia.html)**
+❌ The Russian part of the project (RLMS) has been excluded from CPF v2.0 in response to Russia’s 2022 invasion of Ukraine. See the note **[here](https://cpfdata.com/update/2025/07/01/excluding-russia.html)**
 
-4.	The code was adjusted to include the latest available waves (data collected up to 2023 and 2024) 
+✅ The code was adjusted to include the latest available waves (data collected up to 2023 and 2024) 
 
-5.	The CPF code was improved with a more transparent syntax structure and some modifications to the harmonization code (based on the team evaluation and users' suggestions). T
+✅ The CPF code was improved with a more transparent syntax structure and some modifications to the harmonization code (based on the team evaluation and users' suggestions). T
 
-More information is availible in the **[Manual](https://github.com/cpfdata/CPF-Documentation/blob/main/CPF2.0_Manual_v1_250724)** and **[Codebook](https://github.com/cpfdata/CPF-Documentation/blob/main/CPF2.0_Codebook_v1_250724.pdf)**. 
+
 
 The development of this version was supported by a grant from the NWO (The Dutch Research Council) Open Science Fund (grant ID OSF23.2.017).
