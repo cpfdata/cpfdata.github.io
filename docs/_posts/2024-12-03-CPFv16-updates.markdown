@@ -12,8 +12,11 @@ Small updates to the v.1.6 code:
 
 3.	PSID – correction for kids_hh_04: Values 0 (no kids) from ‘youngest HH member’ were not properly recoded in kids_hh_04, resulting in underestimation of kids_hh_04==0 (no kids). 
 
-4.	UK – HH income 
+4.	UK – HH income
+   
 •	Now there are two variables: hhinc_pre (gross) and hhinc_post (net)
+
 •	hhinc_post was changed to hhinc_pre (a wrong source variable was used)
+
 •	a propper hhinc_post was added 
 
