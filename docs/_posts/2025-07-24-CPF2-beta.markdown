@@ -1,5 +1,5 @@
 ---
-title:  "CPF 2.0 beta version"
+title:  "CPF 2.0 beta version!"
 date:   2025-07-24 09:04:04 +0100
 categories: update
 ---
@@ -12,7 +12,7 @@ It is availible to download **[here](https://cpfdata.com/download/)** and at **[
 
 2.	The LISS panel from the Netherlands was added, offering high-quality annual data across diverse life domains. This was done in collaboration with Priscilla Zhang from Centrdata (the authors of the LISS survey).
 
-3.	The Russian part of the project (RLMS) has been excluded from CPF v2.0 in response to Russia’s 2022 invasion of Ukraine. 
+3.	The Russian part of the project (RLMS) has been excluded from CPF v2.0 in response to Russia’s 2022 invasion of Ukraine. See the note **[here](https://cpfdata.com/update/2025/07/01/excluding-russia.html)**
 
 4.	The code was adjusted to include the latest available waves (data collected up to 2023 and 2024) 
 
