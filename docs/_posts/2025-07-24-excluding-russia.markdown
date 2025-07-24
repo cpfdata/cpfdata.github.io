@@ -1,6 +1,6 @@
 ---
 title:  "Excluding Russian data from CPF 2.0"
-date:   2025-05-27 09:04:04 +0100
+date:   2025-07-01 09:04:04 +0100
 categories: update
 ---
 
