@@ -14,16 +14,21 @@ comments: true
 
 **NOTE: CPF 2.0 is coming in summer 2025 with latest waves up to 2024**
 
-CPF version 1.5. covers the period until 2020, combines seven countries:
-- **Australia**: HILDA (Household, Income and Labor Dynamics in Australia Survey) 
-- **Germany**: SOEP (German Socio-Economic Panel) 
-- **Russia**: RLMS (Russian Longitudinal Monitoring Survey) 
-- **South Korea**: KLIPS (Korean Labor and Income Panel Study) 
-- **Switzerland**: SHP (Swiss Household Panel)
-- **United Kingdom**: BHPS/UKHLS (British Household Panel Survey; Understanding Society – UK Household Longitudinal Study)
-- **United States**: PSID (Panel Study of Income Dynamics)
 
-The full dataset (ver 1.5, 2024) includes in total over 3 million observations from almost 395 thousand respondents. The oldest survey is PSID which started in 1968 and collected 41 waves until now. The second oldest is SOPE which started in 1984 and collected 36 waves. From 1994, CPF includes four countries, from 1999 – five. The youngest panel study in CPF is HILDA with 19 waves since 2001. 
+### Panel studies included in CPF 2.0
+
+| Country | Survey Name | Start Year | Webpage |
+|---------|-------------|------------|---------|
+| **Australia** | Household, Income and Labour Dynamics in Australia (HILDA) | 2001 | [melbourneinstitute.unimelb.edu.au/hilda](https://melbourneinstitute.unimelb.edu.au/hilda) |
+| **Korea** | Korean Labor and Income Panel Study (KLIPS) | 1998 | [kli.re.kr/klips_eng](https://kli.re.kr/klips_eng) |
+| **US** | Panel Study of Income Dynamics (PSID) | 1968 | [psidonline.isr.umich.edu](https://psidonline.isr.umich.edu) |
+| **Switzerland** | Swiss Household Panel (SHP) | 1999 | [forscenter.ch](https://forscenter.ch) |
+| **Germany** | German Socio-Economic Panel (SOEP) | 1984 | [diw.de/en/soep](https://diw.de/en/soep) |
+| **UK** | British Household Panel Survey (BHPS) / UK Household Longitudinal Study (UKHLS) | 1991 / 2009 | [understandingsociety.ac.uk](https://understandingsociety.ac.uk) |
+| **Netherlands** | Longitudinal Internet Studies for the Social Sciences (LISS) | 2007 | [lissdata.nl](https://lissdata.nl) |
+| **Russia** * | Russian Longitudinal Monitoring Survey (RLMS) | 1994 | [www.hse.ru/en/rlms](https://www.hse.ru/en/rlms) |
+
+*Note: * Starting with CPF v2.0, the Russian Longitudinal Monitoring Survey (RLMS) is no longer included.*
 
 ### Number of waves, observations and respondents (CPF ver. 1.0)
 
