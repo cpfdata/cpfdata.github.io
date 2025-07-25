@@ -28,6 +28,7 @@ comments: false
 
 [Download CPF syntax (zip)](https://github.com/cpfdata/CPF-Code/archive/refs/heads/CPF-ver-2.0(main).zip){: .btn .btn--primary .btn--large}
 
+Go to the **[CPF code on GitHub](https://github.com/cpfdata/CPF-Code)**
 
 ## Manual
 **File:** CPF_Manual_v*.pdf
@@ -36,7 +37,7 @@ comments: false
 
 The file opens on GitHub.
 
-[Download Manual](https://github.com/cpfdata/CPF-Documentation/blob/main/CPF2.0_Manual_v1_250724.pdf){: .btn .btn--primary .btn--large}
+[Download Manual](https://github.com/cpfdata/CPF-Documentation/blob/main/CPF2.0_Manual_v1_250725.pdf){: .btn .btn--primary .btn--large}
 
 
 ## Codebook
