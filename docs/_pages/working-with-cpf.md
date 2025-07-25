@@ -87,7 +87,8 @@ There are four general ways of working with the CPF syntax (which we call workfl
 
 ![syntax](/assets/images/Workflow A.png){: .align-right width="400"}
 
-**Workflow** A is the default and basic way of working with the CPF code. It leads from the raw data to a CPF harmonized dataset without any modifications. Users only have to fill in basic information, such as the directory, and run the code.
+
+**Workflow A** is the default and basic way of working with the CPF code. It leads from the raw data to a CPF harmonized dataset without any modifications. Users only have to fill in basic information, such as the directory, and run the code.
 
 <br/>
 </div>
