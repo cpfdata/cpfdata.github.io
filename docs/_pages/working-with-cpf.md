@@ -90,9 +90,11 @@ There are four general ways of working with the CPF syntax (which we call workfl
 
 **Workflow A** is the default and basic way of working with the CPF code. It leads from the raw data to a CPF harmonized dataset without any modifications. Users only have to fill in basic information, such as the directory, and run the code.
 
+
 <br/>
 </div>
 
+![syntax](/assets/images/Workflow BCD.png){: .align-center width="600"}
 
 **Workflow B** allows selecting surveys to be included in the harmonized CPF dataset. 
 
@@ -100,6 +102,6 @@ There are four general ways of working with the CPF syntax (which we call workfl
 
 **Workflow D** refers to all other modification of the existing structure of the CPF data. Users can modify existing variables or add new ones, as well as modify the criteria for sample selection. Any adjustments of this type must be done in the lower-level syntaxes, separately and consistently for all surveys and for the master-syntaxes.
 
-![syntax](/assets/images/Workflow BCD.png){: .align-center width="600"}
+
 
 </div>
