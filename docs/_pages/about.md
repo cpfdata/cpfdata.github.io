@@ -11,29 +11,30 @@ share: true
 ---
 ## The idea of CPF
 
-The Comparative Panel File (CPF) harmonises the world’s largest and longest-running household panel surveys from seven countries: Australia (HILDA), Germany (SOEP), Great Britain (BHPS and UKHLS), Korea (KLIPS), Russia (RLMS), Switzerland (SHP), and the United States (PSID). The project aims to support the social science community in the analysis of comparative life course data. The CPF is not a data product but an open-source code that integrates individual and household panel data from all seven surveys into a harmonised three-level data structure. The open-source character of the code allows for developing and extending areas of application.
+The Comparative Panel File (CPF) is an ongoing, open science project to harmonise the world’s largest and longest-running household panel surveys from seven countries. The project aims to support the social science community in analyzing comparative life course data. By harmonising individual repeated data covering long periods and several general population surveys, researchers can analyse both time trends and country differences. Currently, CPF includes household panel data from seven of the world’s most important longitudinal surveys: Australia (HILDA), Germany (SOEP), Great Britain (BHPS/UKHLS), South Korea (KLIPS), Switzerland (SHP), the United States (PSID), and the Netherlands (LISS). Previous versions of CPF include Russia (The Russian Longitudinal Monitoring Survey, RLMS), but from version 2.0 it is removed. 
 
-CPF is an open-science project aimed at answering the growing need for cross-nationally comparative longitudinal data in the social sciences. It also contributes to the open and replicable science by providing access to data resources and collaborative improvement of research tools.
+Rather than a static dataset, CPF offers flexible code (in Stata) that combines original survey data into a unified, three-level panel structure (observations nested within individuals, within countries). Thus, CPF is not a data product. Researchers must download the raw data from national data providers and apply the CPF code to create their harmonized dataset. The open-source nature of the code enables the development and expansion of its areas of application. The main features of CPF include:
+•	Open source: All code is fully transparent, editable, and extendable.
+•	Broad and extendable scope: Covers a broader range of variables (which can be further extended).
+•	Flexible and modular: Users can easily adapt it to include different countries, waves, or variables.
+•	Community-driven: Designed for collaborative development through open-coding frameworks GitHub. 
 
-Currently, CPF is developed by Konrad Turek and Matthijs Kalmijn at the Netherlands Interdisciplinary Demographic Institute (NIDI-KNAW) and Thomas Leopold at the University of Cologne [see The CPF Team]. The CPF code was designed and prepared by Konrad Turek and will be continuously developed and improved by the CPF team and the community of users.
+CPF is developed by Konrad Turek and Matthijs Kalmijn at the Netherlands Interdisciplinary Demographic Institute (NIDI-KNAW) and Thomas Leopold at the University of Cologne (see **[The CPF Team](https://cpfdata.com/about/#our-team)**). The CPF code was designed and prepared by Konrad Turek and is continuously developed and improved by the CPF team and the community of users.
 
 ## How did it start?
 
-The first version of CPF (1.0) was published in December 2020. The idea of the comparative dataset originated in 2019 among a group of sociologist from the Netherlands Interdisciplinary Demographic Institute, the University of Cologne, and the University of Amsterdam, involved in a research project “CRITEVENTS” founded by NORFACE/DIAL programme*, which focused on critical life events and the dynamics of inequality over the lifecourse. CPF was developed in an attempt to extend and popularise the approach implemented in the Cross-National Equivalent File (CNEF). CNEF is a long-running and well-established project which harmonizes international longitudinal surveys of households. It is an extraordinary endeavor, however, it has some limitations related to topics included, lack of options to include new variables, or complex application procedures.  Building on the CNEF approach, CPF was an attempt to overcome these limitations for users who require more flexibility and control over the data management process. 
-
-
-\* “Critical Life Events and the Dynamics of Inequality: Risk, Vulnerability, and Cumulative Disadvantage” (CRITEVENTS) was funded by NORFACE through the transnational research programme “Dynamics of Inequality Across the Life-Course: Structures and Processes (DIAL), which is co‐funded by the European Commission through Horizon 2020 under grant agreement No 724363.
-{: .notice}
+The first version of CPF (1.0) was published in December 2020 (**[Turek, Kalmijn, Leopold, 2021](https://academic.oup.com/esr/article/37/3/505/6168670)**). The idea of the comparative dataset originated in 2019 among a group of sociologist from the Netherlands Interdisciplinary Demographic Institute, the University of Cologne, and the University of Amsterdam, involved in a research project “CRITEVENTS” founded by NORFACE/DIAL programme*, which focused on critical life events and the dynamics of inequality over the lifecourse. CPF was developed in an attempt to extend and popularise the approach implemented in the Cross-National Equivalent File (CNEF). CNEF is a long-running and well-established project which harmonizes international longitudinal surveys of households. It is an extraordinary endeavor, however, CPF was an attempt to move the harmonization process to open science, crowdsource cooperation, provide novel functionalities, more flexibility and control over the data management process (**[Turek, 2025](https://link.springer.com/article/10.1007/s11135-024-02020-7)**).
 
 
 ## Open Science Platform
 
 
-CPF is an open-science project, which means that it provides access to all resources, including the programming code. Furthermore, the code can be improved and developed by anyone who wishes to contribute to the project. To allow the open access and community-based development, we have built an open-science platform that connects several tools: website, online forum, GitHub and OSF.
+CPF is an open-science project, which means that it provides access to all resources, including the programming code. Furthermore, the code can be improved and developed by anyone who wishes to contribute to the project. To allow the open access and community-based development, we have built an open-science platform that connects several tools: website, GitHub and OSF. Users’ improvements and suggestions will be recorded, incorporated, and shared using open online tools to allow continuous development and regular updates to the official versions of the code. This design balances community-based development with centralized coordination through a core team that supervises development and ensures quality control (**[Turek, 2025](https://link.springer.com/article/10.1007/s11135-024-02020-7)**). 
+
 
 ![CPF's open-science framework](/assets/images/OSF4.webp)
 
-The central element is the project’s [website](www.cpfdata.com) that contains all important information, documentation and the latest major version of the code. The website also includes a forum. The forum (www.cpfdata.com/forum) serves general communication, discussions and suggestions related to the code. It may also be used for asking questions and providing answers.
+The central element is the project’s [website](www.cpfdata.com) that contains all important information, documentation and the latest major version of the code. The website also includes a forum. 
 
 [GitHub](www.github.com) is precisely oriented at the development of the CPF code. GitHub is a code hosting platform for collaborations in code development, especially useful for managing open-source projects. It allows users to access the main and alternative versions of the code, share their modifications, track changes and continuously integrate them into consecutive versions. Extensions, improvements or alternative versions of the code can be offered by all researchers and programmers who register free of charge at the GitHub platform. Notably, all changes are recorded, providing version control functionality.
 
@@ -42,7 +43,6 @@ The central element is the project’s [website](www.cpfdata.com) that contains 
 Links to the resources:
 
 - Website: [cpfdata.com](https://cpfdata.com)
-- Forum: [cpfdata.com/forum](https://cpfdata.com/forum)
 - GitHub: [github.com/cpfdata](https://github.com/cpfdata)
 - OSF: [osf.io/h3yxq](https://osf.io/h3yxq)
 
