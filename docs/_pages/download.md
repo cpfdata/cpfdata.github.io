@@ -22,11 +22,9 @@ comments: false
 
 **Information:** Packed (zip) folder with the latest full set of CPF’s syntax files for running the harmonization code. 
 
-**Contains:** Stata’s syntax do-files in an organized folder structure
+**Contains:** Stata’s syntax do-files in an organized folder structure. See the full content at the **[GitHub](https://github.com/cpfdata/CPF-Code)**
 
 **Instruction:** Unpack the entire folder structure to “11_CPF_in_syntax” (or simply rename “CPF-Code-main” as “11_CPF_in_syntax”)
-
-Go to the **[CPF code on GitHub](https://github.com/cpfdata/CPF-Code)**
 
 [Download CPF syntax (zip)](https://github.com/cpfdata/CPF-Code/archive/refs/heads/CPF-ver-2.0(main).zip){: .btn .btn--primary .btn--large}
 
