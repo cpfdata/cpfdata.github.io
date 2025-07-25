@@ -30,17 +30,17 @@ comments: true
 
 *Note: * Starting with CPF v2.0, the Russian Longitudinal Monitoring Survey (RLMS) is no longer included.*
 
-### Number of waves, observations and respondents (CPF ver. 1.0)
+### Number of waves, observations and respondents (CPF ver. 2.0)
 
-![Number of waves, observations and respondents (CPF ver. 1.0)](/assets/images/Table_waves_v2.webp)
+![Number of waves, observations and respondents (CPF ver. 2.0)](/assets/images/Tab_cpf2_freq.png)
 
-### Number of waves that individual participated: exact number by survey (left axis) and minimal number for the total sample (right axis) (CPF ver. 1.0)
+### Number of waves that individual participated: exact number by survey (left axis) and minimal number for the total sample (right axis) (CPF ver. 2.0)
 
-![Number of waves that individual participated: exact number by survey (left axis) and minimal number for the total sample (right axis) (CPF ver. 1.0)](/assets/images/Fig_1b-e1606842828908.webp)
+![Number of waves that individual participated: exact number by survey (left axis) and minimal number for the total sample (right axis) (CPF ver. 2.0)](/assets/images/Fig_3_Nr_waves.png)
 
-### Timeline of the data and number of observations by wave (CPF ver. 1.0)
-![Timeline of the data and number of observations by wave (CPF ver. 1.0)](/assets/images/Fig_2.webp)
+### Timeline of the data and number of observations by wave (CPF ver. 2.0)
+![Timeline of the data and number of observations by wave (CPF ver. 2.0)](/assets/images/Fig_4_TimelineCPF2.png)
 
-### Distribution of birth cohorts (year of birth) by survey
+### Distribution of birth cohorts (year of birth) by survey (CPF ver 1.0)
 ![Distribution of birth cohorts (year of birth) by survey](/assets/images/Fig_5.webp)
 
