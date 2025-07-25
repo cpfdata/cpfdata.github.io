@@ -26,9 +26,10 @@ comments: false
 
 **Instruction:** Unpack the entire folder structure to “11_CPF_in_syntax” (or simply rename “CPF-Code-main” as “11_CPF_in_syntax”)
 
+Go to the **[CPF code on GitHub](https://github.com/cpfdata/CPF-Code)**
+
 [Download CPF syntax (zip)](https://github.com/cpfdata/CPF-Code/archive/refs/heads/CPF-ver-2.0(main).zip){: .btn .btn--primary .btn--large}
 
-Go to the **[CPF code on GitHub](https://github.com/cpfdata/CPF-Code)**
 
 ## Manual
 **File:** CPF_Manual_v*.pdf
