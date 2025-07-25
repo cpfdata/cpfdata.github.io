@@ -7,8 +7,26 @@ header:
   overlay_image: /assets/images/data.jpg
 share: true 
 comments: true
-
+classes: wide
 ---
+
+<style>
+.page__content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.page__content table {
+  font-size: 0.9em;
+  word-wrap: break-word;
+}
+
+.page__content img {
+  max-width: 100%;
+  height: auto;
+}
+</style>
 
 ## Basic information about CPF data
 
