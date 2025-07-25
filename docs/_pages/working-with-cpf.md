@@ -32,7 +32,7 @@ CPF version 2.0 was built on data versions released in spring 2025. Backward com
 ## Data structure
 <div markdown="1" style="display: inline-block;">
 
-![data structure](/assets/images/CPF_data-file-flow.png)
+![data structure](/assets/images/CPF_data-file-flow.png){: .align-center width="450"}
 
 
 CPF is a comparative panel dataset with a three-level hierarchical structure: repeated observations from multiple waves (level-1) are clustered within individuals (level-2), and individuals are clustered within countries (level-3).
@@ -66,7 +66,7 @@ There are four general ways of working with the CPF syntax (which we call workfl
 
 <div markdown="1" style="display: inline-block;">
 
-![syntax](/assets/images/Workflow A.png{: .align-right width="420"}
+![syntax](/assets/images/Workflow A.png){: .align-right width="420"}
 
 **Workflow** A is the default and basic way of working with the CPF code. It leads from the raw data to a CPF harmonized dataset without any modifications. Users only have to fill in basic information, such as the directory, and run the code.
 
