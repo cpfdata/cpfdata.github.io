@@ -54,7 +54,6 @@ CPF version 2.0 was built on data versions released in spring 2025. Backward com
 
 ![data structure](/assets/images/CPF_data-file-flow.png){: .align-center width="800"}
 
-
 CPF is a comparative panel dataset with a three-level hierarchical structure: repeated observations from multiple waves (level-1) are clustered within individuals (level-2), and individuals are clustered within countries (level-3).
 
 <br/>
@@ -94,14 +93,12 @@ There are four general ways of working with the CPF syntax (which we call workfl
 </div>
 
 
-<div markdown="1" style="display: inline-block;">
-
-![syntax](/assets/images/Workflow BCD.png){: .align-left width="440"}
-
-
 **Workflow B** allows selecting surveys to be included in the harmonized CPF dataset. 
 
 **Workflow C** serves to add new waves when they become available for the surveys. 
 
 **Workflow D** refers to all other modification of the existing structure of the CPF data. Users can modify existing variables or add new ones, as well as modify the criteria for sample selection. Any adjustments of this type must be done in the lower-level syntaxes, separately and consistently for all surveys and for the master-syntaxes.
+
+![syntax](/assets/images/Workflow BCD.png){: .align-center width="600"}
+
 </div>
