@@ -14,9 +14,13 @@ share: true
 The Comparative Panel File (CPF) is an ongoing, open science project to harmonise the world’s largest and longest-running household panel surveys from seven countries. The project aims to support the social science community in analyzing comparative life course data. By harmonising individual repeated data covering long periods and several general population surveys, researchers can analyse both time trends and country differences. Currently, CPF includes household panel data from seven of the world’s most important longitudinal surveys: Australia (HILDA), Germany (SOEP), Great Britain (BHPS/UKHLS), South Korea (KLIPS), Switzerland (SHP), the United States (PSID), and the Netherlands (LISS). Previous versions of CPF include Russia (The Russian Longitudinal Monitoring Survey, RLMS), but from version 2.0 it is removed. 
 
 Rather than a static dataset, CPF offers flexible code (in Stata) that combines original survey data into a unified, three-level panel structure (observations nested within individuals, within countries). Thus, CPF is not a data product. Researchers must download the raw data from national data providers and apply the CPF code to create their harmonized dataset. The open-source nature of the code enables the development and expansion of its areas of application. The main features of CPF include:
+
 •	Open source: All code is fully transparent, editable, and extendable.
+
 •	Broad and extendable scope: Covers a broader range of variables (which can be further extended).
+
 •	Flexible and modular: Users can easily adapt it to include different countries, waves, or variables.
+
 •	Community-driven: Designed for collaborative development through open-coding frameworks GitHub. 
 
 CPF is developed by Konrad Turek and Matthijs Kalmijn at the Netherlands Interdisciplinary Demographic Institute (NIDI-KNAW) and Thomas Leopold at the University of Cologne (see **[The CPF Team](https://cpfdata.com/about/#our-team)**). The CPF code was designed and prepared by Konrad Turek and is continuously developed and improved by the CPF team and the community of users.
