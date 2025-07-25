@@ -32,7 +32,7 @@ The first version of CPF (1.0) was published in December 2020 (**[Turek, Kalmijn
 CPF is an open-science project, which means that it provides access to all resources, including the programming code. Furthermore, the code can be improved and developed by anyone who wishes to contribute to the project. To allow the open access and community-based development, we have built an open-science platform that connects several tools: website, GitHub and OSF. Users’ improvements and suggestions will be recorded, incorporated, and shared using open online tools to allow continuous development and regular updates to the official versions of the code. This design balances community-based development with centralized coordination through a core team that supervises development and ensures quality control (**[Turek, 2025](https://link.springer.com/article/10.1007/s11135-024-02020-7)**). 
 
 
-![CPF's open-science framework](/assets/images/OSF4.webp)
+![CPF's open-science framework](/assets/images/platform_triangle.png)
 
 The central element is the project’s [website](www.cpfdata.com) that contains all important information, documentation and the latest major version of the code. The website also includes a forum. 
 
