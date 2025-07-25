@@ -52,7 +52,7 @@ CPF version 2.0 was built on data versions released in spring 2025. Backward com
 ## Data structure
 <div markdown="1" style="display: inline-block;">
 
-![data structure](/assets/images/CPF_data-file-flow.png){: .align-center width="600"}
+![data structure](/assets/images/CPF_data-file-flow.png){: .align-center width="800"}
 
 
 CPF is a comparative panel dataset with a three-level hierarchical structure: repeated observations from multiple waves (level-1) are clustered within individuals (level-2), and individuals are clustered within countries (level-3).
@@ -61,7 +61,7 @@ CPF is a comparative panel dataset with a three-level hierarchical structure: re
 </div>
 ## CPF syntax 
 
-![syntax](/assets/images/Syntax_CPF2.png){: .align-left width="520"}
+![syntax](/assets/images/Syntax_CPF2.png){: .align-center width="650"}
 
 The syntax is designed at two levels: higher and lower. Two higher-level syntaxes work as an interface and allow to fill in the necessary information (e.g. file directory) and setup options for harmonisation (e.g. which surveys to include). As meta-level codes, they scall all the necessary codes from a more complex structure of lower-level syntaxes. 
 
@@ -86,7 +86,7 @@ There are four general ways of working with the CPF syntax (which we call workfl
 
 <div markdown="1" style="display: inline-block;">
 
-![syntax](/assets/images/Workflow A.png){: .align-right width="420"}
+![syntax](/assets/images/Workflow A.png){: .align-right width="400"}
 
 **Workflow** A is the default and basic way of working with the CPF code. It leads from the raw data to a CPF harmonized dataset without any modifications. Users only have to fill in basic information, such as the directory, and run the code.
 
@@ -96,7 +96,7 @@ There are four general ways of working with the CPF syntax (which we call workfl
 
 <div markdown="1" style="display: inline-block;">
 
-![syntax](/assets/images/Workflow BCD.png){: .align-left width="420"}
+![syntax](/assets/images/Workflow BCD.png){: .align-left width="440"}
 
 
 **Workflow B** allows selecting surveys to be included in the harmonized CPF dataset. 
