@@ -14,7 +14,7 @@ header:
       url: "/download/"
 excerpt: >
   Comparative Panel File (CPF) is an open science project to harmonise the world’s major and longest-running household panel surveys from seven countries.<br/>
-  <small><a href="/platform/">Latest release: v1.52</a></small>
+  <small><a href="/download/">Latest release: ver. 2.0</a></small>
 intro: 
   - excerpt: 'CPF provides an open-source code to construct a comparative dataset based on the original data from the household panel surveys.<br/>
 The multilevel panel data covering long periods and several general population surveys allow analysing individual trajectories, time trends, contextual effects and country differences. '
