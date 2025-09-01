@@ -24,7 +24,7 @@ feature_row:
   - image_path: /assets/images/data.jpg
     alt: "data"
     title: "Global Data"
-    excerpt: "CPF combines data from 7 countries, 2.7 million observations from almost 360,000 respondents."
+    excerpt: "CPF combines data from 7 countries, over 3 million observations from 400,000 respondents."
     url: "/data/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
