@@ -1,6 +1,6 @@
 ---
 title:  "Newsletter September"
-date:   2025-09-01 09:04:04 +0100
+date:   2025-09-20 09:04:04 +0100
 categories: newsletter
 ---
 
