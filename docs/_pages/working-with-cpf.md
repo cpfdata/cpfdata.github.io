@@ -40,7 +40,7 @@ comments: true
 
 The CPF provides free of charge and full access to the programming code (Stata syntax in do-file format). The code allows combining the separate raw survey data into a single harmonised data file. 
 
-The **[Manual](https://github.com/cpfdata/CPF-Documentation/blob/main/CPF2.0_Manual_v1_250725.pdf)** explains how to work with the syntax, and the Codebook describes all variables.
+The **Manual** explains how to work with the syntax, and the **Codebook** describes all variables (both availible **[here](https://cpfdata.com/download/)**).
 
 Users must first apply for access to each of the origin datasets independently at national administrator institutions. Access is free of charge, but in most cases, users must describe their research goals and sign a contract. When access is granted, the files can be extracted to specific CPF folders.
 
