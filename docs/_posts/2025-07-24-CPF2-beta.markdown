@@ -4,7 +4,7 @@ date:   2025-07-24 09:04:04 +0100
 categories: update
 ---
 
-We are happy to announce that the beta version of CPF 2.0 (still in testing phase) has been released! The updated version (including supporting materials) will be availible in September-October 2025. For now, the beta version is availible to download **[here](https://cpfdata.com/download/)** and at **[GitHub](https://github.com/cpfdata)**. More information is availible in the **[Manual](https://github.com/cpfdata/CPF-Documentation/blob/main/CPF2.0_Manual_v1_250725)** and **[Codebook](https://github.com/cpfdata/CPF-Documentation/blob/main/CPF2.0_Codebook_v1_250724.pdf)**. 
+We are happy to announce that the beta version of CPF 2.0 (still in testing phase) has been released! The updated version (including supporting materials) will be availible in September-October 2025. For now, the beta version is availible to download **[here](https://cpfdata.com/download/)** and at **[GitHub](https://github.com/cpfdata)**. More information is availible in the **Manual** and **Codebook** availible **[here](https://cpfdata.com/download/)**. 
 
 Please let us know about any problems or errors: **<k.l.turek@tilburguniversity.edu>**. 
 
