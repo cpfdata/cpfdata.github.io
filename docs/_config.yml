@@ -23,7 +23,7 @@ subtitle: Harmonizing Comparative Lifecourse Data​
 name: CPF
 email: contact@cpfdata.com
 description: >- # this means to ignore newlines until "baseurl:"
-  CPF - the easy way to harmonize panel data
+  CPF - open-source harmonization for comparative life-course research
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cpfdata.com/" # the base hostname & protocol for your site, e.g. http://example.com
 
