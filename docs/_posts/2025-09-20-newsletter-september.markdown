@@ -6,5 +6,8 @@ categories: newsletter
 
 Welcome to the first newsletter for the Comparative Panel File (CPF) Open Harmonization! 
 
->>> **[PDF version](/assets/newsletter/CPF Newsletter 1.pdf)**
->>> **[HTML version](/assets/newsletter/newsletter1/index.html)**
+ **[HTML version](/assets/newsletter/newsletter1/index.html)**
+ 
+ **[PDF version](/assets/newsletter/CPF Newsletter 1.pdf)**
+
+ 
