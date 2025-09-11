@@ -1,5 +1,5 @@
 ---
-title:  "Newsletter September"
+title:  "Newsletter 1 (9/2025)"
 date:   2025-09-10 09:04:04 +0100
 categories: newsletter
 ---
