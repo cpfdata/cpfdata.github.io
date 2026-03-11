@@ -40,9 +40,9 @@ Have you used at least part of the CPF code for your work and would like to incl
 
 **--- 2026 ---**
 
-Turek K., Kalmijn, M., (2026, in press). **[The Association between Women’s Employment and Divorce: Anticipation, Independence, and Recovery in Seven Countries]**, Demographic Research
+Turek K., Kalmijn, M., (2026, in press). **The Association between Women’s Employment and Divorce: Anticipation, Independence, and Recovery in Seven Countries**, Demographic Research
 
-Van Damme, M. (2026, in press). **[The Great Recession and (economic) well being around ‘micro crises’ for men and women in four countries]**, Social Policy
+Van Damme, M. (2026, in press). **The Great Recession and (economic) well being around ‘micro crises’ for men and women in four countries**, Social Policy
 
 Linden, P., Reibling, N., Kühhirt, M. (2026) **[The effect of parenthood on weekly physical activity in four OECD countries – A longitudinal analysis](https://www.sciencedirect.com/science/article/pii/S0049089X25001668?via%3Dihub)**, Social Science Research, 134
 
