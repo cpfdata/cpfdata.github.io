@@ -38,13 +38,29 @@ Turek K., M. Kalmijn, T. Leopold (2021) **[The Comparative Panel File (CPF): Har
 Have you used at least part of the CPF code for your work and would like to include it here, please share is with us: [contact@cpfdata.com](mailto:contact@cpfdata.com)
 {: .notice--info}
 
+**--- 2026 ---**
+
+Turek K., Kalmijn, M., (2026, in press). **[The Association between Women’s Employment and Divorce: Anticipation, Independence, and Recovery in Seven Countries]**, Demographic Research
+
+Van Damme, M. (2026, in press). **[The Great Recession and (economic) well being around ‘micro crises’ for men and women in four countries]**, Social Policy
+
+Linden, P., Reibling, N., Kühhirt, M. (2026) **[The effect of parenthood on weekly physical activity in four OECD countries – A longitudinal analysis](https://www.sciencedirect.com/science/article/pii/S0049089X25001668?via%3Dihub)**, Social Science Research, 134
+
+Munschek, S., Linden, P., Reibling, N. (2026) **[Changes in fruit and vegetable consumption during the transition to parenthood: longitudinal evidence from Australia and the United Kingdom](https://doi.org/10.3389/fpubh.2025.1673209)**, Frontiers in Public Health, 13
+ 
+
 **--- 2025 ---**
+
+Weychert, E., Osiewalska, B., Van der Velde, L., Matysiak, A. (2025) **[LabFam Individual Biographies harmonised family and employment histories based on panel surveys](https://www.researchsquare.com/article/rs-8376548/v1?utm_source=researchgate.net&utm_medium=article)**, Preprint
 
 Kalmijn, M. (2025) **[Effects of Self-Rated Health on Union Formation and Dissolution in Six Countries](https://journals.sagepub.com/doi/10.1177/00221465251375984)**, Journal of Health and Social Behavior, 67(1)
 
 Bauer J.M., Kaiser M., (2025) **[Can major life events explain the U-shape in subjective well-being over the lifespan?](http://dx.doi.org/10.2139/ssrn.5133418)** , Available at SSRN.
 
 Kopycka, K., Kiersztyn, A., Sawiński, Z., Bieńkowski, S., & Sovpenchuk, V. (2025) **[Use of Panel Surveys to Measure Employment Precarity in a Cross-National Framework: An Integrated Approach to Harmonize Research Concepts and Longitudinal Data](https://doi.org/10.18148/srm/2023.v17i3.7989)**, Survey Research Methods, 17(3), 353–393. 
+
+Sommet, N., Lipps, O. (2025) **[A Primer on Fixed Effects and Fixed-Effects Panel Modeling Using R, Stata, and SPSS](https://doi.org/10.1177/25152459251392843?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle)**, Advances in Methods and Practices in Psychological Science
+
 
 **--- 2024 ---**
 
