@@ -44,9 +44,13 @@ Turek K., Kalmijn, M., (2026, in press). **The Association between Women’s Emp
 
 Van Damme, M. (2026, in press). **The Great Recession and (economic) well being around ‘micro crises’ for men and women in four countries**, Social Policy
 
+Decker, V. (2026) **[Variation in employment inequality between workers with vocational and general education over the career](https://www.sciencedirect.com/science/article/pii/S1569490926000018)**, Advances in Life Course Research, 67.
+
 Linden, P., Reibling, N., Kühhirt, M. (2026) **[The effect of parenthood on weekly physical activity in four OECD countries – A longitudinal analysis](https://www.sciencedirect.com/science/article/pii/S0049089X25001668?via%3Dihub)**, Social Science Research, 134
 
 Munschek, S., Linden, P., Reibling, N. (2026) **[Changes in fruit and vegetable consumption during the transition to parenthood: longitudinal evidence from Australia and the United Kingdom](https://doi.org/10.3389/fpubh.2025.1673209)**, Frontiers in Public Health, 13
+
+Kovesdi, F., Alkire, S. (2026) **[Measuring Multidimensional Poverty: A Rigorously Documented Global Data Gap](https://link.springer.com/article/10.1007/s11205-025-03801-9)**, Social Indicators Research, 182(2)
  
 
 **--- 2025 ---**
@@ -54,6 +58,8 @@ Munschek, S., Linden, P., Reibling, N. (2026) **[Changes in fruit and vegetable 
 Weychert, E., Osiewalska, B., Van der Velde, L., Matysiak, A. (2025) **[LabFam Individual Biographies harmonised family and employment histories based on panel surveys](https://www.researchsquare.com/article/rs-8376548/v1?utm_source=researchgate.net&utm_medium=article)**, Preprint
 
 Kalmijn, M. (2025) **[Effects of Self-Rated Health on Union Formation and Dissolution in Six Countries](https://journals.sagepub.com/doi/10.1177/00221465251375984)**, Journal of Health and Social Behavior, 67(1)
+
+Metzger, S. (2025) **[Gender differences in parental mental health: A life course approach](https://www.tara.tcd.ie/tara8/server/api/core/bitstreams/5d751b35-589d-46f1-b105-615395048911/content)**, PhD Thesis at Trinity College Dublin, the University of Dublin.
 
 Bauer J.M., Kaiser M., (2025) **[Can major life events explain the U-shape in subjective well-being over the lifespan?](http://dx.doi.org/10.2139/ssrn.5133418)** , Available at SSRN.
 
@@ -75,6 +81,8 @@ dos Santos S., Dieckhoff M., Ehlert M., Mertens A. (2024) **[Does training beget
 Schechtl M., Waitkus N. (2024). **[Where Income Becomes Wealth: How Redistribution Moderates the Association between Income and Wealth](https://doi.org/10.1177/23780231241261599)**, Socius, 10.
 
 van Wijk D., Billari F. (2024) **[Fertility Postponement, Economic Uncertainty, and the Increasing Income Prerequisites of Parenthood](https://doi-org.tilburguniversity.idm.oclc.org/10.1111/padr.12624)**, Population and Development Review, 50: 287-322
+
+Belcher, R., Murray, K., Reeves, J., Fecht, D.(2024) **[Socioeconomic deprivation modifies green space and mental health associations: A within person study](https://www.sciencedirect.com/science/article/pii/S0160412024006226)**, Environment International, 192
 
 
 **--- 2021-2023 ---**
