@@ -40,6 +40,8 @@ Have you used at least part of the CPF code for your work and would like to incl
 
 **--- 2025 ---**
 
+Kalmijn, M. (2025) **[Effects of Self-Rated Health on Union Formation and Dissolution in Six Countries](https://journals.sagepub.com/doi/10.1177/00221465251375984)**, Journal of Health and Social Behavior, 67(1)
+
 Bauer J.M., Kaiser M., (2025) **[Can major life events explain the U-shape in subjective well-being over the lifespan?](http://dx.doi.org/10.2139/ssrn.5133418)** , Available at SSRN.
 
 Kopycka, K., Kiersztyn, A., Sawiński, Z., Bieńkowski, S., & Sovpenchuk, V. (2025) **[Use of Panel Surveys to Measure Employment Precarity in a Cross-National Framework: An Integrated Approach to Harmonize Research Concepts and Longitudinal Data](https://doi.org/10.18148/srm/2023.v17i3.7989)**, Survey Research Methods, 17(3), 353–393. 
