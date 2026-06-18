@@ -10,5 +10,4 @@ Konrad Turek talked with Tom Emery on the <ins>[ODDISEI Podcast](https://odissei
 Many thanks to Tom and the ODISSEI team for the opportunity to share these ideas, and for last year's Open Science award! There is no better platform to explore these topics — by connecting, reorganizing, promoting, and de-routinizing social science, ODISSEI is paving the way for a more innovative research infrastructure. 
 
 
-
-[![Foto1](/assets/images/podcast.jpg)](https://odissei.transistor.fm/episodes/the-comparative-panel-file-with-konrad-turek)
+![Foto1](/assets/images/podcast.jpg)
