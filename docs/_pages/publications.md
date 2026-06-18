@@ -40,9 +40,11 @@ Have you used at least part of the CPF code for your work and would like to incl
 
 **--- 2026 ---**
 
-Turek K., Kalmijn, M., (2026, in press). **The Association between Women’s Employment and Divorce: Anticipation, Independence, and Recovery in Seven Countries**, Demographic Research
-
 Van Damme, M. (2026, in press). **The Great Recession and (economic) well being around ‘micro crises’ for men and women in four countries**, Social Policy
+
+Turek K., Kalmijn, M., (2026). **[The Association between Women’s Employment and Divorce: Anticipation, Independence, and Recovery in Seven Countries](https://www.demographic-research.org/articles/volume/54/32)**, Demographic Research
+
+Trutwin L., Habisch, A., Kellner, J. (2026) **[The impact of dual VET on the unemployment rate of young adults after the financial crisis: a comparison between Germany and the United States](https://www.tandfonline.com/doi/full/10.1080/13636820.2026.2677151#d1e251)**, Journal of Vocational Education & Training
 
 Decker, V. (2026) **[Variation in employment inequality between workers with vocational and general education over the career](https://www.sciencedirect.com/science/article/pii/S1569490926000018)**, Advances in Life Course Research, 67.
 
