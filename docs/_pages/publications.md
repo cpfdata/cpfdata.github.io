@@ -42,6 +42,10 @@ Have you used at least part of the CPF code for your work and would like to incl
 
 Schoenholzer, K. (2026) **[Cumulative Advantage in the Early Career: Within-Person Dynamics of the Graduate Income Advantage in Five Countries](https://doi.org/10.1016/j.rssm.2026.101216)**, Research in Social Stratification and Mobility
 
+Antoun, C., Cernat, A. (2026) **[Estimating Reliability in Cross-National Longitudinal Survey Measures](https://doi.org/10.18148/srm/2026.v20i2.8525)**, Survey Research Methods, 20 (2)
+
+Guner, N., Renedo, E., Yavuz, E. (2026) **[DP21810 Taxes and Transfers with Nonlinear Wage Dynamics](https://cepr.org/publications/dp21810)**, CEPR Discussion Paper No. 21810. 
+
 Van Damme, M. (2026, in press). **The Great Recession and (economic) well being around ‘micro crises’ for men and women in four countries**, Social Policy
 
 Turek K., Kalmijn, M., (2026). **[The Association between Women’s Employment and Divorce: Anticipation, Independence, and Recovery in Seven Countries](https://www.demographic-research.org/articles/volume/54/32)**, Demographic Research
@@ -49,6 +53,8 @@ Turek K., Kalmijn, M., (2026). **[The Association between Women’s Employment a
 Trutwin L., Habisch, A., Kellner, J. (2026) **[The impact of dual VET on the unemployment rate of young adults after the financial crisis: a comparison between Germany and the United States](https://www.tandfonline.com/doi/full/10.1080/13636820.2026.2677151#d1e251)**, Journal of Vocational Education & Training
 
 Decker, V. (2026) **[Variation in employment inequality between workers with vocational and general education over the career](https://www.sciencedirect.com/science/article/pii/S1569490926000018)**, Advances in Life Course Research, 67.
+
+Decker, V. (2026) **[(Un)equal careers Labor market inequalities between workers with general and vocational education over the life course](https://pure.uva.nl/ws/files/308137217/Thesis.pdf)**, Universiteit van Amsterdam (PhD Thesis)
 
 Linden, P., Reibling, N., Kühhirt, M. (2026) **[The effect of parenthood on weekly physical activity in four OECD countries – A longitudinal analysis](https://www.sciencedirect.com/science/article/pii/S0049089X25001668?via%3Dihub)**, Social Science Research, 134
 
