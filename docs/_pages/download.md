@@ -16,7 +16,7 @@ comments: false
 {: .notice--info}
 
 ## CPF syntax
-**Current version:** CPF ver. 2.0 (July 2025)
+**Current version:** CPF ver. 2.0 (July 2025). Before you run CPF, check recent changes to the code since the release: see **[CHANGELOG.md](https://github.com/cpfdata/CPF-Code/blob/CPF-ver-2.0(main)/CHANGELOG.md)**
 
 **File:** CPF-code-main.zip
 
