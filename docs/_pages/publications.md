@@ -44,7 +44,7 @@ Schoenholzer, K. (2026) **[Cumulative Advantage in the Early Career: Within-Pers
 
 Antoun, C., Cernat, A. (2026) **[Estimating Reliability in Cross-National Longitudinal Survey Measures](https://doi.org/10.18148/srm/2026.v20i2.8525)**, Survey Research Methods, 20 (2)
 
-Guner, N., Renedo, E., Yavuz, E. (2026) **[DP21810 Taxes and Transfers with Nonlinear Wage Dynamics](https://cepr.org/publications/dp21810)**, CEPR Discussion Paper No. 21810. 
+Guner, N., Renedo, E., Yavuz, E. (2026) **[Taxes and Transfers with Nonlinear Wage Dynamics](https://cepr.org/publications/dp21810)**, CEPR Discussion Paper No. 21810. 
 
 Van Damme, M. (2026, in press). **The Great Recession and (economic) well being around ‘micro crises’ for men and women in four countries**, Social Policy
 
