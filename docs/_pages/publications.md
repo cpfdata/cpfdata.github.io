@@ -40,6 +40,8 @@ Have you used at least part of the CPF code for your work and would like to incl
 
 **--- 2026 ---**
 
+Schoenholzer, K. (2026) **[Cumulative Advantage in the Early Career: Within-Person Dynamics of the Graduate Income Advantage in Five Countries](https://doi.org/10.1016/j.rssm.2026.101216)**, Research in Social Stratification and Mobility
+
 Van Damme, M. (2026, in press). **The Great Recession and (economic) well being around ‘micro crises’ for men and women in four countries**, Social Policy
 
 Turek K., Kalmijn, M., (2026). **[The Association between Women’s Employment and Divorce: Anticipation, Independence, and Recovery in Seven Countries](https://www.demographic-research.org/articles/volume/54/32)**, Demographic Research
